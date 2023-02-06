@@ -1,0 +1,16 @@
+#include<stdio.h>
+int main()
+{
+int lines=10;
+int i=1;
+int j;
+                        for(i=1;i<=lines;i++)
+{//this is loop is used to print lines 
+                        for(j=1;j<=i;j++)
+{//this loop is used to  print the table of the i
+
+		printf("%d",i*j);				                          
+   }
+   pr
+   return 0;
+ }
